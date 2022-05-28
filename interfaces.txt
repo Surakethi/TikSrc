@@ -1,0 +1,3 @@
+### interfaces dalam Router SOHO
+- WAN
+- LAN
