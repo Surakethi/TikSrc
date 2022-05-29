@@ -1,3 +1,5 @@
 ### interfaces dalam Router SOHO
 - WAN
 - LAN
+- DMZ
+- Farm
