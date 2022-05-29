@@ -2,4 +2,4 @@
 - WAN
 - LAN
 - DMZ
-- Farm servers
+- Farm
