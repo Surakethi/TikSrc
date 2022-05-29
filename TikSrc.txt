@@ -1,5 +1,8 @@
 MikroTik Scripts include:
 - MikroTik SOHO Router
+  * General Setting 
+  * interface
+  * Routing
 - MikroTik Port Forwarding
 - Securing MikroTik Router
 - Dual Link Failover on MikroTik
