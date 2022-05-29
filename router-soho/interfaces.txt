@@ -1,0 +1,3 @@
+###interfaces Router SOHO:
+ - WAN
+ - LAN
