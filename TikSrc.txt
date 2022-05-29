@@ -3,6 +3,7 @@ MikroTik Scripts include:
   * General Setting 
   * interface
   * Routing
+  * firewall
 - MikroTik Port Forwarding
 - Securing MikroTik Router
 - Dual Link Failover on MikroTik
